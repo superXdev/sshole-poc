@@ -1,4 +1,4 @@
-# sshhole-lab
+# sshole-poc
 
 Self-contained lab reproducing **CVE-2026-123158** (*"\*sshole"* / "sshhole") — an
 OpenSSH password-authentication bypass on musl-libc Linux (Alpine) without PAM.
